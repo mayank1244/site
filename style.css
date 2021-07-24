@@ -5,12 +5,12 @@
     color: white;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
-    font-size: 1cm;
+    font-size: ;
     background-image: url(bg3.jpg);
     
 }
 .div1{
-    font-size: 1cm;
+    font-size: ;
     color: cadetblue;
     justify-content: space-between;
     display: flex;
@@ -21,16 +21,16 @@
 }
 
 .port{
-    margin-left: 1cm;
+    margin-left: ;
     text-decoration: none;
     color: chocolate;   
-    font-size: 2cm;
+    font-size: ;
 }
 .span{
     color: darkolivegreen;
 }
 .home{
-    margin-right: 1cm;
+    margin-right: ;
     list-style: none; 
     display: flex;
     justify-content: space-between;
@@ -41,7 +41,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 50px;
+    font-size: ;
 }
 .mayank .hello{
     margin-left: 3cm;
@@ -50,38 +50,21 @@
 
 
 
-.typing{
-    color: #fff;
-    border-right: .15em solid orange;
-    animation: 
-        typing 3.5s steps(30, end),
-        blink-caret .2s step-end infinite;
-    }
-    
-    
-    @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange }
-    }
-
-
-
-
 
 
 
 
 .mayank .icon{
-    margin-right: 15cm;
+    margin-right: 20px;
 }
 .mayank .hello .line1{
-    font-size: 50px;
+    font-size: 20px;
 }
 .hire{
     text-decoration: none;
     display: inline-block;
     color: ghostwhite;
-    font-size: 65px;
+    font-size: 20px;
     padding: 10px 20px;
     margin-top: 20px;
     border-radius: 10px;
@@ -102,13 +85,13 @@
     font-weight: bolder;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
-    font-size: 1cm;
+    font-size: ;
     background-image: url("bg1.jpg");
     background-size: 100%;
     
 }
 .about{
-    font-size: 90px;
+    font-size: ;
     font-weight: bolder;
     text-align: center;
     color: black;
@@ -138,7 +121,7 @@
     font-weight: bolder;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
-    font-size: 1cm;
+    font-size: ;
     background-image: url(bg6.jpg);
     background-size: 100%;
 }
@@ -156,7 +139,7 @@
 }
 
 .table{
-    font-size: 30px;
+    font-size: ;
     padding-right: 5px;
     margin-top: 5cm;
     display: flex;
